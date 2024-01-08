@@ -1,4 +1,4 @@
-# CNN Explainer
+# CNN 互动解释
 
 An interactive visualization system designed to help non-experts learn about Convolutional Neural Networks (CNNs)
 
@@ -14,7 +14,7 @@ For more information, check out our manuscript:
 Wang, Zijie J., Robert Turko, Omar Shaikh, Haekyu Park, Nilaksh Das, Fred Hohman, Minsuk Kahng, and Duen Horng Chau.
 *IEEE Transactions on Visualization and Computer Graphics (TVCG), 2020.*
 
-## Live Demo
+## 在线案例demo掩饰
 
 For a live demo, visit: http://poloclub.github.io/cnn-explainer/
 
@@ -67,7 +67,7 @@ We thank
 [Georgia Tech Visualization Lab](http://vis.gatech.edu)
 for their support and constructive feedback.
 
-## Citation
+##引用
 
 ```bibTeX
 @article{wangCNNExplainerLearning2020,
